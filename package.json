@@ -1,0 +1,17 @@
+{
+  "name": "priority_queue",
+  "version": "0.0.1",
+  "description": "javascript implementation of priority queue data structure",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jbystronski/priority_queue.git"
+  },
+  "license": "ISC"
+}
